@@ -13,6 +13,12 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ ********************************************************************
+ *                    ITECHDREAM
+ ********************************************************************
+ * The following command to execute SparkPi coding in Web Console using spark-submit
+ * 
+ * spark-submit --class org.apache.spark.examples.SparkPi /usr/hdp/current/spark-client/lib/spark-examples-*.jar 10
  */
 
 // scalastyle:off println
